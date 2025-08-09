@@ -1,6 +1,6 @@
 # Awesome PEG Parsers
 
-> A curated list of the best libraries and tools for working with PEG — Parsing Expression Grammars.
+> A curated list of the best libraries and tools for working with [PEG](https://en.wikipedia.org/wiki/Parsing_expression_grammar) — Parsing Expression Grammars.
 
 ## JavaScript / TypeScript
 
