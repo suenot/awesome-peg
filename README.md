@@ -25,6 +25,16 @@
 
 - [cpp-peglib](https://github.com/yhirose/cpp-peglib) — lightweight single-header PEG parser library.
 
+## Python
+
+- [pegen](https://github.com/we-like-parsers/pegen) — the PEG parser generator used in CPython 3.9+. Actively developed and maintained[47][1][2].
+- [Parsimonious](https://github.com/erikrose/parsimonious) — a fast, pure-Python PEG parser generator[48].
+- [TatSu](https://tatsu.readthedocs.io) — generates memoizing PEG parsers from grammars written in EBNF variant[60].
+- [pyPEG](https://pythonhosted.org/pyPEG2/) — plain Python PEG parser framework, easy to use[3].
+- [peg.py](https://pypi.org/project/peg.py/) — simple PEG parser library for Python[4].
+- [pe](https://pypi.org/project/pe/) — minimalist PEG parsing library[5].
+- [pyparsing](https://github.com/pyparsing/pyparsing) — popular parsing library; not strictly PEG, but supports PEG-like grammars[54].
+
 ## Other Languages & Projects
 
 - [Moon PEG](https://lib.haxe.org/p/moon-peg/) — PEG library for Haxe.
